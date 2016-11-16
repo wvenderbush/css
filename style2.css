@@ -1,0 +1,47 @@
+h1 {
+	font-size: 45px;
+	font-style: italic;
+	color: #EC7357;
+	padding: 10px;
+	text-transform: capitalize;
+	text-align: center;
+
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #E1CE7A;
+	padding: 5px;
+	text-transform: capitalize;
+	text-align: center;
+
+}
+
+
+h3 {
+	font-size: 15px;
+	font-style: italic;
+	color: #E1CE7A;
+	padding: 3px;
+	text-transform: capitalize;
+
+}
+
+a {
+	font-weight: bold;
+	color: #FDD692;
+	text-decoration: underline;
+	text-transform: uppercase;
+	word-spacing: 4px;
+
+}
+
+p {
+	text-align: center;
+	color: #754F44;
+	text-indent: 25px;
+	letter-spacing: 10px;
+	word-spacing: 5px;
+
+}
