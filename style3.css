@@ -1,0 +1,57 @@
+#head1 {
+	font-size: 35px;
+	font-weight: bold;
+	color: #000066;
+	padding: 5px;
+	text-transform: capitalize;
+	text-align: center;
+
+}
+
+#tehlulz {
+	color: black;
+}
+
+h2 {
+	font-size: 25px;
+	font-weight: bold;
+	color: #0000b3;
+	padding: 3px;
+	text-transform: capitalize;
+	text-align: center;
+
+}
+
+
+.content {
+	font-size: 20px;
+	font-weight: bold;
+	color: #0000b3;
+	padding: 1px;
+	text-transform: capitalize;
+
+}
+
+.navzone {
+	font-style: italic;
+	color: #9999ff;
+	text-decoration: overline;
+	text-transform: lowercase;
+	word-spacing: 4px;
+
+}
+
+.prose {
+	text-align: center;
+	color: #00004d;
+	text-indent: 10px;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+
+}
+
+.extreme {
+	text-align: center;
+	color: #00004d;
+	font-size: 10px;
+}
